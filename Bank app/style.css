@@ -41,7 +41,7 @@ input[type=date], select, textarea{
     border-radius: 4px;
     box-sizing: border-box;
     resize: vertical;
-  } input[type=email], select, textarea{
+  } input[type=submit], select, textarea{
     width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
